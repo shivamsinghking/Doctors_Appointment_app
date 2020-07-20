@@ -1,0 +1,21 @@
+[
+    {
+      "name": "Independence Palace",
+      "address": "135 Nam Kỳ Khởi Nghĩa, Phường Bến Thành, Quận 1, Hồ Chí Minh 700000",
+      "coords": {
+        "latitude":25.473034,
+        "longitude": 81.878357
+      },
+      "image_url": "https://media.glassdoor.com/l/de/cd/ae/b6/the-face-shop.jpg"
+    },
+    {
+      "name": "Turtle Lake",
+      "address": "Turtle Lake, phường 6, District 3, Ho Chi Minh City",
+      "coords": {
+        "latitude": 25.448093,
+        "longitude": 25.448093
+      },
+      "image_url": "http://dreamercosmetic.com/uploads/source/chekd101/trangdiem/bomyphamchanel5moncaocap11600x450.jpg"
+    }
+    
+  ]
